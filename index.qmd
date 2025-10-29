@@ -1,0 +1,14 @@
+---
+title: "index"
+author: "Julia Plotniak"
+format: html
+editor: visual
+---
+
+## About Me
+
+Hi! I'm Julia, a senior biology major at UMass Amherst. After undergrad, I plan on entering a teacher prep program for my Master's to earn initial teaching licensure in both high school biology and chemistry.
+
+[![Throughout my undergrad years, I have found that I am especially interested in plant biology!](plant_bio.png){fig-align="center" width="300"}](https://www.wannapik.com/vectors/85640)
+
+[Lab 7 in Bio478](https://ood.unity.rc.umass.edu/rnode/ceewater-cpu002.unity.rc.umass.edu/45319/files/lab%20docs/Lab%207.html)
